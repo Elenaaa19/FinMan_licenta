@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "797815444870",
+    "project_id": "finman-faff6",
+    "storage_bucket": "finman-faff6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797815444870:android:51a74a7ce4b5826f808807",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797815444870-eul8fqc9jfjhql04gqv8qb09dmllv8f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_app",
+            "certificate_hash": "d5e3d9e7fd44dd63f9cbcb35a68a64eb7e6b3ba9"
+          }
+        },
+        {
+          "client_id": "797815444870-m94ljedac3pu6ohuasgp9oupq84hmc8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCleGot2vcuAD-5U_aVcdEjoQju6kSGadE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797815444870-m94ljedac3pu6ohuasgp9oupq84hmc8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
